@@ -85,7 +85,7 @@ Keterangan:
 ### ▶️ Langkah Kompilasi & Eksekusi
 
 # 1. Clone repository
-git clone <salin link repository>
+git clone https://github.com/lighthen/TUGAS_PBO-3.git
 
 # 2. Buka terminal di folder proyek
 cd "tugas_kelompok"
