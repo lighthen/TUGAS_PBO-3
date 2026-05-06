@@ -63,7 +63,8 @@ Berikut adalah pemetaan konsep OOP terhadap ketentuan tugas:
 
 ---
 ## 📊 Class Diagram
-<img width="800" height="476" alt="Screenshot 2026-05-04 194759" src="https://github.com/user-attachments/assets/9c3b981b-a569-41a9-b712-5cd3eb3d29ac" />
+<img width="1143" height="742" alt="Screenshot 2026-05-04 215551" src="https://github.com/user-attachments/assets/6f2f178f-f619-4bf8-86e7-f64e08d9c220" />
+
 
 Keterangan:
 ▲ = Inheritance (extends)
